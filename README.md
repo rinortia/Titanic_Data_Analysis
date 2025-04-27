@@ -1,5 +1,6 @@
 # 🚢 Titanic Survivors Analysis
 ---
+Google Colab: https://colab.research.google.com/drive/14oCThQp_hU1iaORB7A1ZYLKxK1C3yQnq?usp=sharing
 
 ## 📅 Описание кейса
 
