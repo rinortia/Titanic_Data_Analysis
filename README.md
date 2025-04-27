@@ -60,3 +60,5 @@
 - **Python**
 - Библиотеки: `pandas`, `seaborn`, `matplotlib`
 - **Jupyter Notebook / Google Colab**
+
+Датасет взят с сайта: https://www.kaggle.com/competitions/titanic/data?select=train.csv
